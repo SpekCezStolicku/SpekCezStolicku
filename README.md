@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Frontend Developer specialized in crafting sleek web applications since 2017. My journey with the Vue.js and Nuxt.js frameworks began in the same year, giving me extensive experience in developing applications from the ground up—from optimization to production-ready stages.
+
+✍️ I'm passionate about sharing my experiences and have authored numerous articles on intriguing projects within the tech community.
+
+⚽ Outside of coding, I enjoy playing recreational football, adding a bit of dynamic teamwork off the screen as well.
+
+🚀 I'm currently focusing on developing my own application, but I'm always open to exciting collaborations. Let's create something amazing together!
+
 <!--
 **SpekCezStolicku/SpekCezStolicku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
